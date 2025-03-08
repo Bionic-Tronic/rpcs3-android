@@ -8,12 +8,12 @@ plugins {
 
 android {
     namespace = "net.rpcs3"
-    compileSdk = 35
+    compileSdk = 29
 
     defaultConfig {
         applicationId = "net.rpcs3"
-        minSdk = 31
-        targetSdk = 35
+        minSdk = 29
+        targetSdk = 29
         versionCode = 1
         versionName = "1.0"
 
